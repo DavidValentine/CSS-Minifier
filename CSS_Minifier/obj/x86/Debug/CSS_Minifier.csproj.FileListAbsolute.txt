@@ -1,0 +1,5 @@
+C:\Users\David\documents\visual studio 2010\Projects\Mobile\CSS_Minifier\CSS_Minifier\bin\Debug\CSS_Minifier.exe
+C:\Users\David\documents\visual studio 2010\Projects\Mobile\CSS_Minifier\CSS_Minifier\bin\Debug\CSS_Minifier.pdb
+C:\Users\David\documents\visual studio 2010\Projects\Mobile\CSS_Minifier\CSS_Minifier\obj\x86\Debug\CSS_Minifier.exe
+C:\Users\David\documents\visual studio 2010\Projects\Mobile\CSS_Minifier\CSS_Minifier\obj\x86\Debug\CSS_Minifier.pdb
+C:\Users\David\documents\visual studio 2010\Projects\Mobile\CSS_Minifier\CSS_Minifier\obj\x86\Debug\CSS_Minifier.csprojResolveAssemblyReference.cache
